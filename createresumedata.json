@@ -1,0 +1,23 @@
+{
+        "firstname": "Sathya",
+        "lastname": "Kamaraj",
+        "emailid": "sathyakamarajrks@gmail.com",
+        "phonenum": 9876543210,
+        "role": "Software Engineer",
+        "current_company":"Wipro",
+        "markinX":441,
+        "markin_Xii":1083,
+        "college":"VCET",
+        "GPA":7.9,
+        "schoonname":"NSVV",
+        "course": "BE",
+        "skillset":["java","python"],
+        "experience":5,
+        "project":"Mastercard",
+        "hobby":["reading","drawing"],
+        "location":{
+            "district": "Dindigul",
+            "state": "TamilNadu"
+        },
+        "languages":["Tamil","English"]
+    }   
